@@ -1,1 +1,1 @@
-# DataScienceTask_2
+# Prodigy_DS_02
